@@ -1,0 +1,1 @@
+# escalas_de_cinza_e_binarizacao
